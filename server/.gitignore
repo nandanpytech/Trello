@@ -1,0 +1,8 @@
+node_modules
+.dhiwise
+.git.zip
+.git.zip
+.git
+package-lock.json
+.env
+logs
